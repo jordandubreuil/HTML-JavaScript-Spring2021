@@ -1,0 +1,40 @@
+#blue{
+    color: #0000ff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+}
+
+body{
+    background-color: cornflowerblue;
+    background-image: url("images/Bubbles.jpg");
+    background-repeat:repeat;
+    background-size:200px;
+}
+
+a:link{
+    font-family: arial;
+    font-weight: bold;
+    color:white;
+    text-decoration: none;
+    background-color: grey;
+    border:1px solid red;
+}
+
+a:visited{
+    font-family: arial;
+    font-weight: bold;
+    color:white;
+    text-decoration: none;
+    background-color: grey;
+    border:1px solid red;
+}
+
+a:hover{
+    border:none;
+    color: black;
+}
+
+/*When user click down on link*/
+a:active{
+    color:yellow;
+}
