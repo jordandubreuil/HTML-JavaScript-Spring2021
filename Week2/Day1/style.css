@@ -34,7 +34,7 @@ a:hover{
     color: black;
 }
 
-/*When user click down on link*/
+/*When user clicks down on link*/
 a:active{
     color:yellow;
 }
