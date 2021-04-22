@@ -4,4 +4,5 @@ var msg = "Welcome to the Riddle Page"
     
 function showAnswer(id,answer){
    document.getElementById(id).innerHTML = answer
+   document.get
 }
